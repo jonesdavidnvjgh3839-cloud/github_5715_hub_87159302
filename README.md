@@ -6,8 +6,6 @@ Welcome to the Solution Knowledge Hub. This repository catalogues the company's 
 
 - [Contract Analytics](solutions/contract-analytics.md) — Legal Tech
 - [Churn Predictor](solutions/churn-predictor.md) — Analytics
-- [Document Summarizer](solutions/doc-summarizer.md) — Document AI
-- [Customer 360 View](solutions/customer-360.md) — CRM
 - [Lead Scoring](solutions/lead-scoring.md) — Sales
 - [Fraud Detector](solutions/fraud-detector.md) — Risk
 - [AI Support Bot](solutions/ai-support-bot.md) — Customer Service

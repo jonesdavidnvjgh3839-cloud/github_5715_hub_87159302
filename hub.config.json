@@ -16,34 +16,22 @@
       "status": "active"
     },
     {
-      "id": "doc-summarizer",
-      "title": "Document Summarizer",
-      "category": "Document AI",
-      "status": "deprecated"
-    },
-    {
-      "id": "customer-360",
-      "title": "Customer 360 View",
-      "category": "CRM",
-      "status": "deprecated"
-    },
-    {
       "id": "lead-scoring",
       "title": "Lead Scoring",
       "category": "Sales",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "fraud-detector",
       "title": "Fraud Detector",
       "category": "Risk",
-      "status": "pending"
+      "status": "active"
     },
     {
       "id": "ai-support-bot",
       "title": "AI Support Bot",
       "category": "Customer Service",
-      "status": "pending"
+      "status": "active"
     }
   ]
 }
