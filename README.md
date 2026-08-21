@@ -1,2 +1,17 @@
-# github_5715_hub_87159302
-Solution Knowledge Hub - quarterly maintenance test repository
+# Solution Knowledge Hub
+
+Welcome to the Solution Knowledge Hub. This repository catalogues the company's solution offerings.
+
+## Featured Solutions
+
+- [Contract Analytics](solutions/contract-analytics.md) — Legal Tech
+- [Churn Predictor](solutions/churn-predictor.md) — Analytics
+- [Document Summarizer](solutions/doc-summarizer.md) — Document AI
+- [Customer 360 View](solutions/customer-360.md) — CRM
+- [Lead Scoring](solutions/lead-scoring.md) — Sales
+- [Fraud Detector](solutions/fraud-detector.md) — Risk
+- [AI Support Bot](solutions/ai-support-bot.md) — Customer Service
+
+## About
+
+This hub is maintained by the Content Operations team. The list above is generated from `hub.config.json`.
